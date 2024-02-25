@@ -9,16 +9,18 @@
  </div>
  <div align="center">
    <a href="https://github.com/iTzRod](https://github.com/giovannipajeu1">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=giovannipajeu1&show_icons=true&theme=radical&border_color=FFFFFF&border_radius=20px"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giovannipajeu1&layout=compact&langs_count=16&theme=radical&border_radius=20px&border_color=FFFFFF"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=giovannipajeu1&show_icons=true&theme=blueberry&border_color=FFFFFF&border_radius=20px"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giovannipajeu1&layout=compact&langs_count=16&theme=blueberry&border_radius=20px&border_color=FFFFFF"/>
 </div>
+
+
+    
 <div style="display: inline_block" align="center"><br>
   <img align="center" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
- <img align="center" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
+  <img align="center" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
   <img align="center" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg">
   <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg">
-
   <img align="center" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/githubactions/githubactions-plain.svg">
   <img align="center" height="55" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/argocd/argocd-original.svg">
   <img align="center" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg">
