@@ -1,4 +1,5 @@
 ## Welcome to my GitHub 👋
+<hr>
  
  <div>
     <br>
@@ -25,6 +26,7 @@
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=giovannipajeu1&show_icons=true&theme=radical&border_color=FFFFFF&border_radius=20px"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giovannipajeu1&layout=compact&langs_count=16&theme=radical&border_radius=20px&border_color=FFFFFF"/>
 </div>
+<hr>
 
 
     
@@ -44,7 +46,7 @@
 
  
 </div> <br>
- 
+ <hr>
 ##
 <div align="center">
   <a href="https://www.linkedin.com/in/giovanni-pajeu-lima/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
