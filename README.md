@@ -11,6 +11,7 @@
 <a href="https://github.com/giovannipajeu1/CVE-2024-23740">CVE-2024-23740</a> |
 <a href="https://github.com/giovannipajeu1/CVE-2024-23738">CVE-2024-23738</a> 
 ##
+  
 <br>
 <p>DevSecOps Projects:</p>
 <a href="https://github.com/giovannipajeu1/WordPress-DevOps">WordPress-DevSecOps</a>
