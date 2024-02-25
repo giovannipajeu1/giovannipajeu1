@@ -10,7 +10,7 @@
  <div align="center">
    <a href="https://github.com/iTzRod](https://github.com/giovannipajeu1">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=giovannipajeu1&show_icons=true&theme=blue-green&border_color=FFFFFF&border_radius=20px"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giovannipajeu1&layout=compact&langs_count=16&theme=blue-green&border_radius=20px&border_color=FFFFFF"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giovannipajeu1&layout=compact&langs_count=16&theme=radical&border_radius=20px&border_color=FFFFFF"/>
 </div>
 
 
