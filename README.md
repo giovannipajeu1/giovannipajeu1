@@ -1,9 +1,8 @@
 ##  Welcome to my GitHub 👋
  
- <div align="center">
+ <div>
     <br>
-  
-
+ <p>Minhas CVEs</p>
 <br>
 <a href="https://github.com/giovannipajeu1/CVE-2023-50643">CVE-2023-50643</a> |
 <a href="https://github.com/giovannipajeu1/CVE-2024-23743">CVE-2024-23743</a> |
