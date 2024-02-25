@@ -2,8 +2,7 @@
  
  <div>
     <br>
- <p>Minhas CVEs</p>
-<br>
+<p>Minhas CVE's:</p>
 <a href="https://github.com/giovannipajeu1/CVE-2023-50643">CVE-2023-50643</a> |
 <a href="https://github.com/giovannipajeu1/CVE-2024-23743">CVE-2024-23743</a> |
 <a href="https://github.com/giovannipajeu1/CVE-2024-23742">CVE-2024-23742</a> |
