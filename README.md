@@ -3,7 +3,7 @@
  <div align="center">
     <br>
   
-<h1>My's CVE's</h1>
+
 <br>
 <a href="https://github.com/giovannipajeu1/CVE-2023-50643">CVE-2023-50643</a> |
 <a href="https://github.com/giovannipajeu1/CVE-2024-23743">CVE-2024-23743</a> |
@@ -11,7 +11,7 @@
 <a href="https://github.com/giovannipajeu1/CVE-2024-23741">CVE-2024-23741</a> |
 <a href="https://github.com/giovannipajeu1/CVE-2024-23739">CVE-2024-23739</a> |
 <a href="https://github.com/giovannipajeu1/CVE-2024-23740">CVE-2024-23740</a> |
-<a href="https://github.com/giovannipajeu1/CVE-2024-23738">CVE-2024-23738</a> |
+<a href="https://github.com/giovannipajeu1/CVE-2024-23738">CVE-2024-23738</a> 
  
  ##
  </div>
