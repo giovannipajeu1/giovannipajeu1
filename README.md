@@ -55,5 +55,5 @@
  
 </div>
 
- ![snake gif](https://github.com/giovannipajeu1/blob/output/github-contribution-grid-snake.svg)
+ ![snake gif](https://github.com/giovannipajeu1/giovannipajeu1/blob/output/github-contribution-grid-snake.svg)
 
