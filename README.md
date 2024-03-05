@@ -52,7 +52,8 @@
   <a href="https://api.whatsapp.com/send?phone=5511973273915&text=Olá%20!%20Pode%20me%20ajudar%20%3F%20d/"  target=_blank><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
  
 </div>
-
+<br>
+<hr>
 
 
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.gif" />
