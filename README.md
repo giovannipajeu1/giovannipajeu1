@@ -20,6 +20,7 @@
 <a href="https://github.com/giovannipajeu1/WordPress-DevOps">WordPress-DevSecOps</a> |
 <a href="https://github.com/giovannipajeu1/Filmes-Api">Back-End Filmes</a> |
 <a href="https://github.com/giovannipajeu1/IaC-Terraform"> IaC With Terraform</a> 
+<a href="https://github.com/giovannipajeu1/Virtualizando-Tudo">Blog Pessoal</a> 
  
  ##
  </div>
