@@ -17,7 +17,7 @@
   
 <br>
 <p>Projects In Development:</p>
-<a href="https://github.com/giovannipajeu1/Cordyceps">Cordyceps - C2 | 
+<a href="https://github.com/giovannipajeu1/Cordyceps">Cordyceps - C2 </a> | 
 <a href="https://github.com/giovannipajeu1/Filmes-Api">Back-End Filmes</a> |
 <a href="https://github.com/giovannipajeu1/IaC-Terraform"> IaC With Terraform</a> 
  
