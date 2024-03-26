@@ -49,6 +49,10 @@
 
  
 </div> <br>
+<div style="display: inline_block" align="center"><br>
+ <img align="center" height="40" width="50" src="![WhatsApp Image 2024-03-25 at 21 10 22](https://github.com/giovannipajeu1/giovannipajeu1/assets/83291215/17401210-fab9-407b-957b-f379a01e1b88)">
+
+</div>
 
 ##
 <div align="center">
