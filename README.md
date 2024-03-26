@@ -50,7 +50,8 @@
  
 </div> <br>
 <div style="display: inline_block" align="center"><br>
-![WhatsApp Image 2024-03-25 at 21 10 22](https://github.com/giovannipajeu1/giovannipajeu1/assets/83291215/616cdaaf-9c2b-4fa6-be02-2975d3db49e2)
+![WhatsApp Image 2024-03-25 at 21 10 22](https://github.com/giovannipajeu1/giovannipajeu1/assets/83291215/67d99569-1e7d-4faf-a0e1-8b7725a5a10f)
+
 
 
 </div>
