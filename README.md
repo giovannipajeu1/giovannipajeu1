@@ -50,7 +50,8 @@
  
 </div> <br>
 <div style="display: inline_block" align="center"><br>
- <img align="center" height="40" width="50" src="![WhatsApp Image 2024-03-25 at 21 10 22](https://github.com/giovannipajeu1/giovannipajeu1/assets/83291215/17401210-fab9-407b-957b-f379a01e1b88)">
+![WhatsApp Image 2024-03-25 at 21 10 22](https://github.com/giovannipajeu1/giovannipajeu1/assets/83291215/616cdaaf-9c2b-4fa6-be02-2975d3db49e2)
+
 
 </div>
 
