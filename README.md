@@ -44,11 +44,6 @@
   <img align="center" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/githubactions/githubactions-plain.svg">
 
  
- ![WhatsApp Image 2024-03-25 at 21 10 22](https://github.com/giovannipajeu1/giovannipajeu1/assets/83291215/cc15519f-b86e-47e2-9e46-7ab4e50bcdc4)
-
-
-
- 
 ##
 <div align="center">
   <a href="https://www.linkedin.com/in/giovanni-pajeu-lima/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
