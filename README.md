@@ -16,10 +16,11 @@
 
   
 <br>
-<p>Projects In Development:</p>
+<p>Projects:</p>
 <a href="https://github.com/giovannipajeu1/Cordyceps">Cordyceps - C2 </a> | 
 <a href="https://github.com/giovannipajeu1/Filmes-Api">Back-End Filmes</a> |
-<a href="https://github.com/giovannipajeu1/IaC-Terraform"> IaC With Terraform</a> 
+<a href="https://github.com/giovannipajeu1/IaC-Terraform"> IaC With Terraform</a> |
+<a href="https://github.com/giovannipajeu1/Auth-System"> Sistema de Autenticação SSO </a> | 
  
  ##
  </div>
