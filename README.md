@@ -54,19 +54,12 @@
 
 <hr>
 
- ### Some Badges:
+ ## Some Badges:
  <div align="left>
   <p align="left">
     <a href="https://mycourse.app/DftqRWM7QkYiY2YR6" target="_blank" rel="noreferrer"> 
         <img src="https://github.com/giovannipajeu1/giovannipajeu1/assets/83291215/792f2aae-75a0-4239-b3e2-8b44a9ddbf1b" alt="GitOps ArgoCD" width="100" height="100"/> 
     </a>
-    <a href="" target="_blank" rel="noreferrer"> 
-        <img src="https://github.com/giovannipajeu1/giovannipajeu1/assets/83291215/4a57bcfe-ac79-4f58-88a5-cfe68fcb3b7b" alt="Kubernetes Administrator" width="100" height="100"/> 
-    </a>
-    <a href="" target="_blank" rel="noreferrer"> 
-        <img src="https://github.com/giovannipajeu1/giovannipajeu1/assets/83291215/ecca45de-df29-4546-8877-57a9145119b0" alt="OCI DevOps Professional" width="100" height="100"/> 
-    </a>
-</p>
   </div>
 <hr>
 
