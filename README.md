@@ -53,7 +53,19 @@
 </div>
 
 <hr>
+<div>
+ ### Some Badges:
+<p align="left">
+    <a href="https://mycourse.app/DftqRWM7QkYiY2YR6" target="_blank" rel="noreferrer"> 
+        <img src="![image](https://github.com/giovannipajeu1/giovannipajeu1/assets/83291215/fbeb7241-c530-4540-862a-4a96e451aa7b)
+" alt="GitOps ArgoCD" width="40" height="40"/> 
+    </a>
+   
+</p>
+</div>
 
+
+<hr>
 
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.gif" />
 
