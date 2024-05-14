@@ -60,10 +60,20 @@
     <a href="https://mycourse.app/DftqRWM7QkYiY2YR6" target="_blank" rel="noreferrer"> 
         <img src="https://github.com/giovannipajeu1/giovannipajeu1/assets/83291215/792f2aae-75a0-4239-b3e2-8b44a9ddbf1b" alt="GitOps ArgoCD" width="40" height="40"/> 
     </a>
-   
+ </p>
+  <p align="left">
+    <a href="" target="_blank" rel="noreferrer"> 
+        <img src="https://github.com/giovannipajeu1/giovannipajeu1/assets/83291215/a0226330-8528-43ea-89cb-9e782153cc41" alt="Kubernetes Administrator" width="40" height="40"/> 
+    </a>
+</p>
+  <p align="left">
+    <a href="" target="_blank" rel="noreferrer"> 
+        <img src="https://github.com/giovannipajeu1/giovannipajeu1/assets/83291215/ecca45de-df29-4546-8877-57a9145119b0" alt="OCI DevOps Professional" width="40" height="40"/> 
+    </a>
 </p>
   </div>
 <hr>
+
 
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.gif" />
 
