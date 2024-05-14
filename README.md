@@ -60,6 +60,9 @@
     <a href="https://mycourse.app/DftqRWM7QkYiY2YR6" target="_blank" rel="noreferrer"> 
         <img src="https://github.com/giovannipajeu1/giovannipajeu1/assets/83291215/792f2aae-75a0-4239-b3e2-8b44a9ddbf1b" alt="GitOps ArgoCD" width="100" height="100"/> 
     </a>
+    <a href="" alt="SRE Foundation" target="_blank" rel="noreferrer"/>
+       <img src="https://github.com/giovannipajeu1/giovannipajeu1/assets/83291215/1e61c8c7-cdb5-486a-91b6-ca9312f595db" alt ="SRE Foundation" width="100 height="100"/>
+    </a>
   </div>
 <hr>
 
