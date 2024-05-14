@@ -57,7 +57,7 @@
  ## Minhas Certificações:
  <div align="left>
   <p align="left">
-    <a href="https://mycourse.app/DftqRWM7QkYiY2YR6" target="_blank" rel="noreferrer"> 
+    <a href="https://mycourse.app/gpVAPvp4VQkNy7Rm7" target="_blank" rel="noreferrer"> 
         <img src="https://github.com/giovannipajeu1/giovannipajeu1/assets/83291215/792f2aae-75a0-4239-b3e2-8b44a9ddbf1b" alt="GitOps ArgoCD" width="80" height="80"/> 
     </a>
     <a href="" alt="SRE Foundation" target="_blank" rel="noreferrer"/>
