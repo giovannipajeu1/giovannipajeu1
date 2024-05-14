@@ -54,7 +54,7 @@
 
 <hr>
 
- ## Some Badges:
+ ## Minhas Certificações:
  <div align="left>
   <p align="left">
     <a href="https://mycourse.app/DftqRWM7QkYiY2YR6" target="_blank" rel="noreferrer"> 
