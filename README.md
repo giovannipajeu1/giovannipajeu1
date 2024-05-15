@@ -64,7 +64,7 @@
        <img src="https://github.com/giovannipajeu1/giovannipajeu1/assets/83291215/1e61c8c7-cdb5-486a-91b6-ca9312f595db" alt ="SRE Foundation" width="100 height="100"/>
     </a>
     <a href="">
-       <img src="https://github.com/giovannipajeu1/giovannipajeu1/assets/83291215/a82250a4-6123-4e98-88ca-bf16c5788bfe" alt="CKA" width="100" height="100"/>
+       <img src="https://github.com/giovannipajeu1/giovannipajeu1/assets/83291215/dc2a7fba-09a4-4d6c-849a-48932dc52948" alt="CKA" width="100" height="100"/>
     </a>
  </div>
 <hr>
