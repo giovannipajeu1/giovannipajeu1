@@ -63,7 +63,10 @@
     <a href="" alt="SRE Foundation" target="_blank" rel="noreferrer"/>
        <img src="https://github.com/giovannipajeu1/giovannipajeu1/assets/83291215/1e61c8c7-cdb5-486a-91b6-ca9312f595db" alt ="SRE Foundation" width="100 height="100"/>
     </a>
-  </div>
+    <a href="">
+       <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fvitalflux.com%2Fkubernetes-certification-exam-cka-sample-questions-sets%2F&psig=AOvVaw15zKQspbzwUMO2PtyeCjWG&ust=1715817798508000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCLCUocWtjoYDFQAAAAAdAAAAABAE" alt="CKA" width="100" height="100"/>
+    </a>
+ </div>
 <hr>
 
 
