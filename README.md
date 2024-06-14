@@ -57,6 +57,9 @@
  ## Minhas Certificações:
  <div align="left>
   <p align="left">
+    <a href=""> 
+     <img src="https://github.com/giovannipajeu1/giovannipajeu1/assets/83291215/49601da8-7f46-4002-acd2-b3cf36e3c7ce" width="100" height="100"/>
+    </a>
     <a href="https://mycourse.app/gpVAPvp4VQkNy7Rm7" target="_blank" rel="noreferrer"> 
         <img src="https://github.com/giovannipajeu1/giovannipajeu1/assets/83291215/792f2aae-75a0-4239-b3e2-8b44a9ddbf1b" alt="GitOps ArgoCD" width="80" height="80"/> 
     </a>
@@ -66,9 +69,7 @@
     <a href="">
        <img src="https://github.com/giovannipajeu1/giovannipajeu1/assets/83291215/dc2a7fba-09a4-4d6c-849a-48932dc52948" alt="CKA" width="100" height="100"/>
     </a>
-   <a href=""> 
-     <img src="https://github.com/giovannipajeu1/giovannipajeu1/assets/83291215/49601da8-7f46-4002-acd2-b3cf36e3c7ce" width="100" height="100"/>
-    </a>
+ 
  </div>
 <hr>
 
