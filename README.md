@@ -66,7 +66,6 @@
     <a href="">
        <img src="https://github.com/giovannipajeu1/giovannipajeu1/assets/83291215/dc2a7fba-09a4-4d6c-849a-48932dc52948" alt="CKA" width="100" height="100"/>
     </a>
-  <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="ff783931-ba23-4809-8c3a-4c3603c10828" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async   src="//cdn.credly.com/assets/utilities/embed.js"></script>
  </div>
 <hr>
 
