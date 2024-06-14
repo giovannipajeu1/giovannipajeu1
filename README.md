@@ -60,9 +60,6 @@
     <a href=""> 
      <img src="https://github.com/giovannipajeu1/giovannipajeu1/assets/83291215/49601da8-7f46-4002-acd2-b3cf36e3c7ce" width="100" height="100"/>
     </a>
-    <a href="https://mycourse.app/gpVAPvp4VQkNy7Rm7" target="_blank" rel="noreferrer"> 
-        <img src="https://github.com/giovannipajeu1/giovannipajeu1/assets/83291215/792f2aae-75a0-4239-b3e2-8b44a9ddbf1b" alt="GitOps ArgoCD" width="80" height="80"/> 
-    </a>
     <a href="https://www.linkedin.com/in/giovanni-pajeu-lima/details/certifications/1716215912184/single-media-viewer/?profileId=ACoAADcmk2cBBwnMkzJ284ZdkarogcGQ8-ub8ls" alt="SRE Foundation" target="_blank" rel="noreferrer"/>
        <img src="https://github.com/giovannipajeu1/giovannipajeu1/assets/83291215/1e61c8c7-cdb5-486a-91b6-ca9312f595db" alt ="SRE Foundation" width="100 height="100"/>
     </a>
