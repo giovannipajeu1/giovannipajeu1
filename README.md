@@ -67,7 +67,7 @@
        <img src="https://github.com/giovannipajeu1/giovannipajeu1/assets/83291215/dc2a7fba-09a4-4d6c-849a-48932dc52948" alt="CKA" width="100" height="100"/>
     </a>
       <a href="">
-       <img src="https://github.com/giovannipajeu1/giovannipajeu1/assets/83291215/63b09b2e-c859-4935-a7e4-8e246944e107" alt="CKA" width="100" height="100"/>
+       <img src="https://github.com/giovannipajeu1/giovannipajeu1/assets/83291215/647e4ab2-d997-48ff-b08e-13fc77666056" alt="CKA" width="100" height="100"/>
     </a>
  
  </div>
