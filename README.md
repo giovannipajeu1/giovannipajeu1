@@ -18,12 +18,12 @@
 ##
 </div>
 
-<div align="center"><br>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
-  <img src="https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white">
-  <img src="https://img.shields.io/badge/CrowdStrike-cc0000?style=for-the-badge&logo=crowdstrike&logoColor=white">
-  <img src="https://img.shields.io/badge/Windows_Defender-0078D4?style=for-the-badge&logo=microsoftdefender&logoColor=white">
-  <img src="https://img.shields.io/badge/Malware_Dev-1a1a1a?style=for-the-badge&logoColor=white">
+<div style="display: inline_block" align="center"><br>
+  <img align="center" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+  <img align="center" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg">
+  <img align="center" height="40" width="50" src="https://raw.githubusercontent.com/giovannipajeu1/giovannipajeu1/main/assets/crowdstrike.svg">
+  <img align="center" height="40" width="50" src="https://raw.githubusercontent.com/giovannipajeu1/giovannipajeu1/main/assets/defender.svg">
+  <img align="center" height="40" width="50" src="https://raw.githubusercontent.com/giovannipajeu1/giovannipajeu1/main/assets/malware.svg">
 </div>
 
 ##
