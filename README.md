@@ -1,8 +1,5 @@
-## Dis Pater
-
- 
- <div>
-    <br>
+<div>
+<br>
 <p>CVEs:</p>
 <a href="https://github.com/giovannipajeu1/CVE-2023-50643">CVE-2023-50643</a> |
 <a href="https://github.com/giovannipajeu1/CVE-2024-23743">CVE-2024-23743</a> |
@@ -19,21 +16,15 @@
 <a href="https://github.com/giovannipajeu1/Cordyceps">Cordyceps — C2 Framework</a>
 
 ##
- </div>
- <div align="center">
-   <a href="https://github.com/giovannipajeu1">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=giovannipajeu1&show_icons=true&theme=tokyonight&border_color=ff0000&border_radius=20px"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giovannipajeu1&layout=compact&langs_count=16&theme=tokyonight&border_radius=20px&border_color=ff0000"/>
 </div>
 
 <div style="display: inline_block" align="center"><br>
   <img align="center" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-  <img align="center" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
-  <img align="center" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg">
-  <img align="center" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
   <img align="center" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg">
-  <img align="center" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
+  <img align="center" height="40" src="https://cdn.simpleicons.org/crowdstrike/cc0000">
+  <img align="center" height="40" src="https://cdn.simpleicons.org/microsoftdefender/0078D4">
+  <img align="center" height="30" src="https://img.shields.io/badge/Malware%20Dev-cc0000?style=for-the-badge&logoColor=white">
+</div>
 
 ##
 <div align="center">
@@ -43,4 +34,4 @@
 
 <hr>
 
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.gif" />
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.gif" />
