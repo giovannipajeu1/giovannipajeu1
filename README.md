@@ -35,14 +35,4 @@
 
 ---
 
-<div style="display: inline_block" align="center"><br>
-  <img align="center" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-  <img align="center" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg">
-  <img align="center" height="40" width="50" src="https://raw.githubusercontent.com/giovannipajeu1/giovannipajeu1/main/assets/crowdstrike.svg">
-  <img align="center" height="40" width="50" src="https://raw.githubusercontent.com/giovannipajeu1/giovannipajeu1/main/assets/defender.svg">
-  <img align="center" height="40" width="50" src="https://raw.githubusercontent.com/giovannipajeu1/giovannipajeu1/main/assets/malware.svg">
-</div>
-
-<hr>
-
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.gif" />
