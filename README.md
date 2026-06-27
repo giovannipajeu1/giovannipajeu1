@@ -1,4 +1,4 @@
-## DisPater — Offensive Security Researcher
+## Dis Pater — Offensive Security Researcher
 
 Focused on **Windows internals**, **EDR evasion**, and **low-level exploitation**. I research how endpoint defenses monitor system telemetry — and what it takes to operate beneath that visibility.
 
