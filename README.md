@@ -1,38 +1,136 @@
-# Hi there! 👋
+<div align="center">
 
-## About Me
-- **Expertise**: EDR Evasion, Windows Internals, Malware Development, Vulnerability Research
-- **Focus**: Operating beneath endpoint detection — syscall-level execution, userland hook bypass, low-level implant architecture
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="110" alt="Java" />
 
----
+# Giovanni Pajeú
 
-## Projects
+### ☕ Java Backend Engineer in the making
 
-| | |
-|---|---|
-| [Cordyceps](https://github.com/giovannipajeu1/Cordyceps) | C2 framework — cross-platform, TCP beacon, persistence, self-destruct |
-| [Thanatos](https://github.com/giovannipajeu1/Thanatos) | Ransomware — file enumeration, XOR/AES encryption, EDR evasion |
-| [Charon](https://github.com/giovannipajeu1/Charon) | Keylogger — WH_KEYBOARD_LL hook, silent logging, userland |
-| [Cerberus](https://github.com/giovannipajeu1/Cerberus) | Worm — subnet sweep, SMB propagation, registry persistence |
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@giovannipajeu)
+[![Location](https://img.shields.io/badge/São_Paulo-BR-000000?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
+[![GitHub followers](https://img.shields.io/github/followers/giovannipajeu1?label=Follow&style=for-the-badge&logo=github&color=24292e)](https://github.com/giovannipajeu1)
+
+</div>
 
 ---
 
-## CVEs
+## 🧭 Sobre mim
 
-<a href="https://github.com/giovannipajeu1/CVE-2023-50643">CVE-2023-50643</a> |
-<a href="https://github.com/giovannipajeu1/CVE-2024-23743">CVE-2024-23743</a> |
-<a href="https://github.com/giovannipajeu1/CVE-2024-23742">CVE-2024-23742</a> |
-<a href="https://github.com/giovannipajeu1/CVE-2024-23741">CVE-2024-23741</a> |
-<a href="https://github.com/giovannipajeu1/CVE-2024-23740">CVE-2024-23740</a> |
-<a href="https://github.com/giovannipajeu1/CVE-2024-23739">CVE-2024-23739</a> |
-<a href="https://github.com/giovannipajeu1/CVE-2024-23738">CVE-2024-23738</a>
+Engenheiro de software focado em **Java moderno** — do backend corporativo à arquitetura distribuída.
+Atualmente cursando a **Pós-graduação Java Elite (450h)**, construindo APIs resilientes com **Spring Boot** e **Quarkus**, orquestrando serviços em **Kubernetes** e explorando o que há de mais atual em **Cloud Native**.
+
+```java
+public class Giovanni {
+    String role      = "Backend Engineer";
+    String stack     = "Java • Spring • Quarkus";
+    String infra     = "Docker • Kubernetes • AWS";
+    String learning  = "System Design • Concurrency • Clean Architecture";
+    String location  = "São Paulo, Brazil";
+}
+```
 
 ---
 
-## Support
+## 🛠️ Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=java,spring,quarkus,gradle,maven,hibernate&theme=dark" alt="Backend" />
+<br/>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,kafka,rabbitmq&theme=dark" alt="Data" />
+<br/>
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,terraform,linux,git&theme=dark" alt="Infra" />
+<br/>
+<img src="https://skillicons.dev/icons?i=react,typescript,html,css,tailwind&theme=dark" alt="Frontend" />
+<br/>
+<img src="https://skillicons.dev/icons?i=idea,vscode,githubactions,bash&theme=dark" alt="Tools" />
+
+</div>
+
+---
+
+## 🎓 Jornada — Pós Java Elite
+
+<table>
+  <tr>
+    <td align="center" width="80"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/></td>
+    <td><b>Fundamentos & Java Avançado</b><br/>Core, Streams, Records, Pattern Matching, Virtual Threads</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40"/></td>
+    <td><b>Spring Boot & Quarkus</b><br/>APIs REST, segurança, observabilidade e desenvolvimento cloud-native</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/></td>
+    <td><b>Front-end com React</b><br/>Componentização, hooks e integração com APIs Java</td>
+  </tr>
+  <tr>
+    <td align="center">🏛️</td>
+    <td><b>Arquitetura & System Design</b><br/>Clean Architecture, DDD, microsserviços e design distribuído</td>
+  </tr>
+  <tr>
+    <td align="center">⚡</td>
+    <td><b>Concorrência & Multithreading</b><br/>Threads, executors, programação reativa e virtual threads</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="40"/></td>
+    <td><b>Infra & Cloud Computing</b><br/>Docker, Kubernetes e AWS em produção</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40"/></td>
+    <td><b>Bancos SQL & NoSQL</b><br/>PostgreSQL, MySQL, MongoDB, Redis</td>
+  </tr>
+  <tr>
+    <td align="center">✅</td>
+    <td><b>Testes & Qualidade</b><br/>JUnit, Mockito, Testcontainers e CI/CD</td>
+  </tr>
+</table>
+
+---
+
+## 🛡️ CVEs
+
+<div align="center">
+
+[![CVE-2023-50643](https://img.shields.io/badge/CVE--2023--50643-critical-red?style=for-the-badge&logo=cve&logoColor=white)](https://github.com/giovannipajeu1/CVE-2023-50643)
+[![CVE-2024-23738](https://img.shields.io/badge/CVE--2024--23738-critical-red?style=for-the-badge&logo=cve&logoColor=white)](https://github.com/giovannipajeu1/CVE-2024-23738)
+[![CVE-2024-23739](https://img.shields.io/badge/CVE--2024--23739-critical-red?style=for-the-badge&logo=cve&logoColor=white)](https://github.com/giovannipajeu1/CVE-2024-23739)
+[![CVE-2024-23740](https://img.shields.io/badge/CVE--2024--23740-critical-red?style=for-the-badge&logo=cve&logoColor=white)](https://github.com/giovannipajeu1/CVE-2024-23740)
+[![CVE-2024-23741](https://img.shields.io/badge/CVE--2024--23741-critical-red?style=for-the-badge&logo=cve&logoColor=white)](https://github.com/giovannipajeu1/CVE-2024-23741)
+[![CVE-2024-23742](https://img.shields.io/badge/CVE--2024--23742-critical-red?style=for-the-badge&logo=cve&logoColor=white)](https://github.com/giovannipajeu1/CVE-2024-23742)
+[![CVE-2024-23743](https://img.shields.io/badge/CVE--2024--23743-critical-red?style=for-the-badge&logo=cve&logoColor=white)](https://github.com/giovannipajeu1/CVE-2024-23743)
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=giovannipajeu1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giovannipajeu1&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=giovannipajeu1&theme=tokyonight&hide_border=true" height="165" />
+
+</div>
+
+---
+
+## ☕ Support
+
+<div align="center">
 
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://buymeacoffee.com/giovannipaq)
 
+</div>
+
 ---
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.gif" />
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
+
+</div>
