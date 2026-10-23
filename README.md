@@ -17,7 +17,7 @@
 ## 🧭 Sobre mim
 
 Engenheiro de software focado em **Java moderno** — do backend corporativo à arquitetura distribuída.
-Atualmente cursando a **Pós-graduação Java Elite (450h)**, construindo APIs resilientes com **Spring Boot** e **Quarkus**, orquestrando serviços em **Kubernetes** e explorando o que há de mais atual em **Cloud Native**.
+Em **especialização avançada em Java (450h)**, construindo APIs resilientes com **Spring Boot** e **Quarkus**, orquestrando serviços em **Kubernetes** e explorando o que há de mais atual em **Cloud Native**.
 
 ```java
 public class Giovanni {
@@ -41,15 +41,13 @@ public class Giovanni {
 <br/>
 <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,terraform,linux,git&theme=dark" alt="Infra" />
 <br/>
-<img src="https://skillicons.dev/icons?i=react,typescript,html,css,tailwind&theme=dark" alt="Frontend" />
-<br/>
 <img src="https://skillicons.dev/icons?i=idea,vscode,githubactions,bash&theme=dark" alt="Tools" />
 
 </div>
 
 ---
 
-## 🎓 Jornada — Pós Java Elite
+## 🎓 Especialização em Java
 
 <table>
   <tr>
@@ -59,10 +57,6 @@ public class Giovanni {
   <tr>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40"/></td>
     <td><b>Spring Boot & Quarkus</b><br/>APIs REST, segurança, observabilidade e desenvolvimento cloud-native</td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/></td>
-    <td><b>Front-end com React</b><br/>Componentização, hooks e integração com APIs Java</td>
   </tr>
   <tr>
     <td align="center">🏛️</td>
