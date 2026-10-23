@@ -17,7 +17,7 @@
 ## 🧭 Sobre mim
 
 Engenheiro de software focado em **Java moderno** — do backend corporativo à arquitetura distribuída.
-Em **especialização avançada em Java (450h)**, construindo APIs resilientes com **Spring Boot** e **Quarkus**, orquestrando serviços em **Kubernetes** e explorando o que há de mais atual em **Cloud Native**.
+Construo APIs resilientes com **Spring Boot** e **Quarkus**, orquestro serviços em **Kubernetes** e trabalho no que há de mais atual em **Cloud Native**.
 
 ```java
 public class Giovanni {
