@@ -7,7 +7,7 @@
 ### ☕ Java Backend Engineer in the making
 
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@giovannipajeu)
-[![Location](https://img.shields.io/badge/São_Paulo-BR-000000?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
+[![Location](https://img.shields.io/badge/São_Tomé_das_Letras-MG,_BR-000000?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
 [![GitHub followers](https://img.shields.io/github/followers/giovannipajeu1?label=Follow&style=for-the-badge&logo=github&color=24292e)](https://github.com/giovannipajeu1)
 
 </div>
@@ -25,7 +25,7 @@ public class Giovanni {
     String stack     = "Java • Spring • Quarkus";
     String infra     = "Docker • Kubernetes • AWS";
     String learning  = "System Design • Concurrency • Clean Architecture";
-    String location  = "São Paulo, Brazil";
+    String location  = "São Tomé das Letras, MG — Brazil";
 }
 ```
 
@@ -35,7 +35,9 @@ public class Giovanni {
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,spring,quarkus,gradle,maven,hibernate&theme=dark" alt="Backend" />
+<img src="https://skillicons.dev/icons?i=java,spring&theme=dark" alt="Java & Spring" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/quarkus/quarkus-original.svg" width="48" height="48" alt="Quarkus" style="vertical-align: middle;" />
+<img src="https://skillicons.dev/icons?i=gradle,maven,hibernate&theme=dark" alt="Build & ORM" />
 <br/>
 <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,kafka,rabbitmq&theme=dark" alt="Data" />
 <br/>
