@@ -100,21 +100,6 @@ public class Giovanni {
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=giovannipajeu1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giovannipajeu1&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=giovannipajeu1&theme=tokyonight&hide_border=true" height="165" />
-
-</div>
-
----
-
 ## ☕ Support
 
 <div align="center">
